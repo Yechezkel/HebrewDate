@@ -147,6 +147,14 @@ namespace HebrewDate
                 {
                     result = $"ב{dayName} בשבת יום שלושים לחודש אדר שהוא ראש חודש ניסן שנת {_years["" + year]} לבריאת עולם";
                 }
+                if (month == "שבט")
+                {
+                    DialogResult input = MessageBox.Show("האם זוהי שנה מעוברת?", "", MessageBoxButtons.YesNo);
+                    if (input == DialogResult.Yes)
+                        result = $"ב{dayName} בשבת יום שלושים לחודש שבט שהוא ראש חודש אדר א' שנת {_years["" + year]} לבריאת עולם";
+                    else
+                        result = $"ב{dayName} בשבת יום שלושים לחודש שבט שהוא ראש חודש אדר שנת {_years["" + year]} לבריאת עולם";
+                }
                 else
                 {
                     int currentIndex = comboBox_month.SelectedIndex;

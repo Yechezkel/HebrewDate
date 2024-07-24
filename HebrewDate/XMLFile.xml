@@ -63,4 +63,25 @@
     <year>תשפ"ט</year>
     <result>ברביעי בשבת יום שלושים לחודש אדר שהוא ראש חודש ניסן שנת חמשת אלפים ושבע מאות שמונים ותשע לבריאת עולם</result>
   </query>
+  <query>
+    <dayName>שלישי</dayName>
+    <dayNum>30</dayNum>
+    <month>שבט</month>
+    <year>תשפ"ח</year>
+    <result>בשלישי בשבת יום שלושים לחודש שבט שהוא ראש חודש ניסן שנת חמשת אלפים ושבע מאות שמונים ושמונה לבריאת עולם</result>
+  </query>
+  <query>
+    <dayName>רביעי</dayName>
+    <dayNum>12</dayNum>
+    <month>שבט</month>
+    <year>תשפ"ט</year>
+    <result>ברביעי בשבת יום שניים עשר לחודש שבט שנת חמשת אלפים ושבע מאות שמונים ותשע לבריאת העולם</result>
+  </query>
+  <query>
+    <dayName>שני</dayName>
+    <dayNum>30</dayNum>
+    <month>שבט</month>
+    <year>תשפ"ט</year>
+    <result>בשני בשבת יום שלושים לחודש שבט שהוא ראש חודש אדר א' שנת חמשת אלפים ושבע מאות שמונים ותשע לבריאת עולם</result>
+  </query>
 </root>

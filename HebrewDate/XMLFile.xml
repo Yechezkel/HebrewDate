@@ -21,4 +21,46 @@
     <year>תשפ"ח</year>
     <result>בשלישי בשבת יום שלושים לחודש אדר א שהוא ראש חודש אדר ב שנת חמשת אלפים ושבע מאות שמונים ושמונה לבריאת עולם</result>
   </query>
+  <query>
+    <dayName>שני</dayName>
+    <dayNum>10</dayNum>
+    <month>אב</month>
+    <year>תשצ"א</year>
+    <result>בשני בשבת יום עשרה לחודש אב שנת חמשת אלפים ותשע מאות ואחת לבריאת העולם</result>
+  </query>
+  <query>
+    <dayName>שלישי</dayName>
+    <dayNum>30</dayNum>
+    <month>טבת</month>
+    <year>תש"ץ</year>
+    <result>בשלישי בשבת יום שלושים לחודש טבת שהוא ראש חודש שבט שנת חמשת אלפים ותשע מאות לבריאת עולם</result>
+  </query>
+  <query>
+    <dayName>רביעי</dayName>
+    <dayNum>30</dayNum>
+    <month>אדר ב</month>
+    <year>תשפ"ח</year>
+    <result>ברביעי בשבת יום שלושים לחודש אדר ב שהוא ראש חודש ניסן שנת חמשת אלפים ושבע מאות שמונים ושמונה לבריאת עולם</result>
+  </query>
+  <query>
+    <dayName>רביעי</dayName>
+    <dayNum>5</dayNum>
+    <month>אדר ב</month>
+    <year>תשפ"ה</year>
+    <result>ברביעי בשבת יום חמישה לחודש אדר ב שנת חמשת אלפים ושבע מאות שמונים וחמש לבריאת העולם</result>
+  </query>
+  <query>
+    <dayName>שלישי</dayName>
+    <dayNum>6</dayNum>
+    <month>אדר ב</month>
+    <year>תשפ"ו</year>
+    <result>בשלישי בשבת יום שישה לחודש אדר ב שנת חמשת אלפים ושבע מאות שמונים ושש לבריאת העולם</result>
+  </query>
+  <query>
+    <dayName>רביעי</dayName>
+    <dayNum>30</dayNum>
+    <month>אדר</month>
+    <year>תשפ"ט</year>
+    <result>ברביעי בשבת יום שלושים לחודש אדר שהוא ראש חודש ניסן שנת חמשת אלפים ושבע מאות שמונים ותשע לבריאת עולם</result>
+  </query>
 </root>

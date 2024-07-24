@@ -16,9 +16,7 @@ namespace HebrewDate
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            RabbiForm form = new RabbiForm("C:\\Users\\INTERNET\\source\\repos\\HebrewDate\\HebrewDate\\XMLFile.xml");
-            form.Show();
-            Application.Run();
+            Application.Run(new RabbiForm("C:\\Users\\INTERNET\\source\\repos\\HebrewDate\\HebrewDate\\XMLFile.xml"));
             
             
         }
